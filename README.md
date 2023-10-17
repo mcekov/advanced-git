@@ -1,2 +1,2 @@
-# advanced-git
+# Advanced Git
 Test repo
